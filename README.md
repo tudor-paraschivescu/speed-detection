@@ -1,6 +1,6 @@
 # speed-detection
 
-A simple MATLAB project of determining the speed of an object moving between two known lines.
+A simple personal MATLAB project of determining the speed of an object moving between two known lines of certain values.
 The object must come from left to right. Two red lines must be drawn on the ground and the distance between them must be known.
 
 INPUT:
